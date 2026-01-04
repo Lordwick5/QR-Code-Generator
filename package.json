@@ -1,5 +1,26 @@
 {
+  "type": "module",
   "dependencies": {
-    "inquirer": "^13.1.0"
-  }
+    "inquirer": "^13.1.0",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordwick5/QR-Code-Generator.git"
+  },
+  "keywords": [],
+  "author": "Prashant Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lordwick5/QR-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/Lordwick5/QR-Code-Generator#readme"
 }
